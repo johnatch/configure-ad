@@ -8,7 +8,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy Active Directory within Azure Compute](https://www.youtube.com)
+- ### [YouTube: How to Deploy Active Directory within Azure Compute](https://www.youtube.com/playlist?list=PLjqI9M_OBoZbUm1Qxtr4X0cLsdsT9NBLe)
 
 <h2>Environments and Technologies Used</h2>
 
